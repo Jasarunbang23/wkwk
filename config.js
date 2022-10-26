@@ -102,7 +102,7 @@ global.wm3 = 'Malix_Project | By Malix'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `Malic project | ʙʏ ${global.nameown}`
-global.author = 'JKT48' 
+global.author = 'Malic Celalu Tercakiti' 
 global.packname = 'Stiker ini dibuat dengan tangan yg belum pernah kau genggam -Malix'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
@@ -371,8 +371,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'Malix_project'
-global.stickauth = `by Malic`
+global.stickpack = ''
+global.stickauth = `stiker ini dibuat dengan tangan yg belum pernah kau genggam -Malix`
 
 global.multiplier = 38 // The higher, The harder levelup
 
