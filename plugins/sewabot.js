@@ -4,21 +4,17 @@ let text = `━━ꕥ〔 *𝚂𝙴𝚆𝙰 & 𝙿𝚁𝙴𝙼𝙸𝚄𝙼* 〕�
 
 ┏━ꕥ〔 𝙷𝙰𝚁𝙶𝙰 𝚂𝙴𝚆𝙰 〕
 ┃
-┃✾ 15 ʜᴀʀɪ 3,5ᴋ / ɢʀᴏᴜᴘ
-┃✾ 30 ʜᴀʀɪ 7ᴋ / ɢʀᴏᴜᴘ
-┃✾ 45 ʜᴀʀɪ 10,5ᴋ / ɢʀᴏᴜᴘ
-┃✾ 60 ʜᴀʀɪ 14ᴋ / ɢʀᴏᴜᴘ
-┃✾ ᴘᴇʀᴍᴀɴᴇɴ 30ᴋ / ɢʀᴏᴜᴘ 
+┃✾ List sewa bot
+1 bulan 5k
+Permanen 20k
 ┃
 ┗━━ꕥ *${author}* ꕥ━⬣
 
 ┏━ꕥ〔 𝙷𝙰𝚁𝙶𝙰 𝙿𝚁𝙴𝙼𝙸𝚄𝙼 〕
 ┃
-┃✾ 15 ʜᴀʀɪ 5ᴋ 
-┃✾ 30 ʜᴀʀɪ 10ᴋ 
-┃✾ 45 ʜᴀʀɪ 15ᴋ 
-┃✾ 60 ʜᴀʀɪ 20ᴋ 
-┃✾ ᴘᴇʀᴍᴀɴᴇɴ 30ᴋ
+┃✾ List premium
+1 bulan 5k
+Permanen 15k
 ┃
 ┗━━ꕥ *${author}* ꕥ━⬣
 
@@ -38,7 +34,7 @@ let text = `━━ꕥ〔 *𝚂𝙴𝚆𝙰 & 𝙿𝚁𝙴𝙼𝙸𝚄𝙼* 〕�
 ┗━━ꕥ *${author}* ꕥ━⬣
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Klick untuk berlangganan', url: 'https://wa.me/6288279268363?text=Hallo admin, saya tertarik untuk menyewa bot yuki adisty'}},
+    {index: 1, urlButton: {displayText: 'Klick untuk berlangganan', url: 'https://wa.me/6287723814311?text=Hallo admin, saya tertarik untuk menyewa bot Fazryy Botz'}},
     {index: 4, quickReplyButton: {displayText: 'Owner', id: '.owner'}},
 ]
 let tm = {
