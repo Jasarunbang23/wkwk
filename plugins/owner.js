@@ -2,7 +2,7 @@ import fetch from 'node-fetch'
 import fs from 'fs';
 import crypto from 'crypto'
 let handler = async (m, { conn, text, usedPrefix }) => {
-    const ultah = new Date('November 4 2022 23:59:59')
+    const ultah = new Date('Ultah 7 Januari  2022 23:59:59')
     const sekarat = new Date().getTime() 
     const Kurang = ultah - sekarat
     const ohari = Math.floor( Kurang / (1000 * 60 * 60 * 24));
@@ -23,7 +23,7 @@ ${botdate}
 `
         let img1 = fs.readFileSync('./thumbnail.jpg');
         let img2 = fs.readFileSync('./media/bawah.png');
-    return conn.sendButton(m.chat, hiasan, sewa, await (await fetch(`https://telegra.ph/file/6ab4daac226292a112540.jpg`)).buffer(), [["Menu", usedPrefix + "menu"], ["Sewa Bot", usedPrefix + "sewa"]], m, {
+    return conn.sendButton(m.chat, hiasan, sewa, await (await fetch(`https://telegra.ph/file/8544d86cea72be5d2afd7.jpg`)).buffer(), [["Menu", usedPrefix + "menu"], ["Sewa Bot", usedPrefix + "sewa"]], m, {
         contextInfo: {
             externalAdReply: {
                 mediaUrl: '',
@@ -31,7 +31,7 @@ ${botdate}
                         description: 'anu',
                         title: `💌 Ultah Owner : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
                         body: `Subscribe YT My Bestie`,                                       previewType: 0,
-                        thumbnail: await (await fetch(`https://i.ibb.co/jfZVKmC/babi2.jpg`)).buffer(),
+                        thumbnail: await (await fetch(`https://telegra.ph/file/8544d86cea72be5d2afd7.jpg`)).buffer(),
                         sourceUrl: 'https://youtu.be/pwLZpdfO8AU'
             }
         }
