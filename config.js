@@ -31,7 +31,7 @@ global.sig = 'https://instagram.com/honestman_404'
 global.syt = 'https://youtu.be/fBKxZh5fejI'
 global.sgh = 'https://github.com/MBXBXB'
 global.sgc = 'Gapunya Grup'
-global.swa = 'wa.me/6283152615606'
+global.swa = 'wa.me/6287723814311'
 global.swb = 'https://youtu.be/fBKxZh5fejI'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -44,15 +44,15 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285664144836'
-global.nomorown = '6283152615606'
-global.namebot = 'Malix_projectラ'
-global.nameown = 'Malix'
+global.nomorbot = '6285691106912'
+global.nomorown = '6287723814311'
+global.namebot = 'Fazryy Botz'
+global.nameown = 'Fazryy'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283152615606', 'Malix', 'true']
+  ['6287723814311', 'Fazryy', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,33 +96,33 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'Malix_Project | By Malix' //Main Watermark
-global.wm2 = 'Malix_project'
-global.wm3 = 'Malix_Project | By Malix'
+global.wm = 'Fazryy Botz | By Malix' //Main Watermark
+global.wm2 = 'Fazryy Botz'
+global.wm3 = 'Fazryy Botz | By Malix'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Malic project | ʙʏ ${global.nameown}`
-global.author = 'Malic Celalu Tercakiti' 
-global.packname = 'Stiker ini dibuat dengan tangan yg belum pernah kau genggam -Malix'
+global.titlebot = `Fazryy Botz | ʙʏ ${global.nameown}`
+global.author = 'Fazryy Botz' 
+global.packname = 'Fazryy Botz'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/1ee2290eedd3330a66df8.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
-global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
-global.giflogo2 = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
-global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
+global.thumb = 'https://telegra.ph/file/e3b504029bc6bad1d1f53.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/e3b504029bc6bad1d1f53.jpg'
+global.giflogo = 'https://telegra.ph/file/e3b504029bc6bad1d1f53.jpg'
+global.giflogo2 = 'https://telegra.ph/file/e3b504029bc6bad1d1f53.jpg'
+global.thumbs = ['https://telegra.ph/file/e3b504029bc6bad1d1f53.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Malix_project Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Malix Tamfan* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo, Saya bot WhatsApp akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Fazryy* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/7cc8056d1d4b3de6a64d2.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'MALIC CELALU TERCAKITI'
-global.umurowner = '26'
+global.nameowner = 'Fazryy'
+global.umurowner = '100'
 global.asalowner = 'ISEKAI'
-global.nomorowner = 'wa.me/6283152615606'
+global.nomorowner = 'wa.me/6287723814311'
 global.pacarowner = 'PAKE BOT INI BESOK DAPET BAKSO'
 
 /*============== TEXT ==============*/
@@ -136,7 +136,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/7cc8056d1d4b3de6a64d2.jpg'
+global.thumbdoc = 'https://telegra.ph/file/e3b504029bc6bad1d1f53.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
