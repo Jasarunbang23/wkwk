@@ -81,7 +81,7 @@ const listMessage = {
 │▸ *sɴ:* ${sn}
 ╰═┅═━––––––๑
 
-ꜱᴜʙꜱᴄʀɪʙᴇ ʏᴛ: ᴹᴿ᭄ King Of Bear ×፝֟͜×
+ꜱᴜʙꜱᴄʀɪʙᴇ ʏᴛ: Fazryy Botz
 `
   let buttonMessage= {
 'document':{'url':'https://youtu.be/pwLZpdfO8AU'},
