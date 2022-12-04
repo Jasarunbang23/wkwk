@@ -102,8 +102,8 @@ global.wm3 = 'Fazryy Botz | By Fazry'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `Fazryy Botz | ʙʏ ${global.nameown}`
-global.author = 'Fazryy Botz' 
-global.packname = 'Fazryy Botz'
+global.author = '® 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝙁𝙖𝙯𝙧𝙮 𝘽𝙤𝙩 |' 
+global.packname = ' Open Sewa Bot Ketik .owner'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
